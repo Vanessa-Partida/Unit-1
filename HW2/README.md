@@ -3,7 +3,7 @@
 * **Submit your python file (.py) in Google Classroom**
 
 # Problem details
-* Ask a user if their shape is a polygon or a circle. Then ask them for a side length and number of sides for a polygon or for a radius for a circle.
+* Ask a user if their shape is a regular polygon or a circle. Then ask them for a side length and number of sides for a polygon or for a radius for a circle.
 * Use functions to do the area calculations. Prompts should not be in the functions that do calculations.
 * Print the area of the shape in the following format:
   * If it's a circle: The area of circle with radius __ is __
